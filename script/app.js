@@ -1,5 +1,5 @@
 define(["angular","angularRoute"],function(){
-	var lm = angular.module("lm",['ngRoute']); 
-	return lm;
+	var myapp = angular.module("myapp",['ngRoute']); 
+	return myapp;
 });
 
